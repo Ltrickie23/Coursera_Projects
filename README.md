@@ -1,2 +1,2 @@
-# Coursera PRojects
+# Coursera Projects
 Entregables de Coursera
